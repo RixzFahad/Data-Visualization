@@ -312,10 +312,7 @@ plt.show()
 
 ---
 
-# 🚀 Final Advice
 
-• Keep visuals clean and simple  
-• Always add labels and units  
 • Sort categories  
 • Focus on insights, not decoration  
 • Explain business impact  
